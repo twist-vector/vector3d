@@ -1,0 +1,5 @@
+The vector3D package provides simple 3-dimensional
+vectors and matrices.  The vectors represent <x,y,z>
+coordinates and the package provides typical 3D operations
+on them.  These include add, subtract, etc.  Also included
+are 3D matrices which generally represent rotations.
